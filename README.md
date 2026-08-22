@@ -46,3 +46,4 @@ Install library yang dibutuhkan dengan menjalankan:
 
 ```bash
 pip install -r requirements.txt
+## 5. Simpan perubahan
